@@ -1,5 +1,5 @@
 # ArazShilabin.github.io
-npm run dev  (local host)
-npm run build
-then a folder "dist" will be made
-push dist to github
+npm run dev  (local host) <br>
+npm run build <br>
+then a folder "dist" will be made <br>
+push dist to github <br>
